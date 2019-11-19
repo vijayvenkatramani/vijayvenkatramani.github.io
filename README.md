@@ -1,2 +1,2 @@
-# startbootstrap-resume-vvn
+# Vijay Venkatramani
 Vijay Venkatramani's resume page using bootstrap
